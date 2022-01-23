@@ -1,8 +1,4 @@
 /*
-Author: Nathan Kevil
-Student ID: 11441056
-Assignment: Homework 4 - GreenBox Program
-
 main.cpp
 */
 
@@ -33,7 +29,6 @@ int main()
 	vector<game>		gameInfo(10);
 	vector<transaction> loanInfo(1);
 	
-	// instantiate objects
 	customers custs;
 	movies movie;
 	transactions transaction;
