@@ -1,10 +1,4 @@
-/*
-Author: Nathan Kevil
-Student ID: 11441056
-Assignment: Homework 3 - GreenBox Program
 
-CSCE 1040.022
-*/
 
 // transactions.cpp
 
