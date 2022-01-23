@@ -1,4 +1,4 @@
-Transaction Management Project in C++ (Fleshed out CS1 Project)
+Transaction Management Project in C++ (Fleshed out CS1 Student Project)
 
 Overview
 Can add user account data (name, type of account (business or personal), transaction processing).
