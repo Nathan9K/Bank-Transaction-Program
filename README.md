@@ -1,4 +1,4 @@
-# Student-Projects
+# Student Projects
 My student project repository -- C/C++ projects 
 
 Author: Nathan Kevil
