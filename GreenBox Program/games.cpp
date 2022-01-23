@@ -1,10 +1,5 @@
 
 /*
-Author: Nathan Kevil
-Student ID: 11441056
-Assignment: Homework 4 - GreenBox Program
-
-CSCE 1040.022
 games.cpp
 */
 
