@@ -25,7 +25,7 @@ int main()
 	vector<customer> 	customerInfo(10);
 	vector<movie> 		movieInfo(10); 
 	vector<game>		gameInfo(10);
-	vector<transaction> loanInfo(1);
+	vector<transaction> 	loanInfo(1);
 	
 	customers custs;
 	movies movie;
@@ -42,12 +42,12 @@ int main()
 		cout << "0 - Employee Menu Access"			<< endl;
 		cout << "1 - Add Customer Info" 			<< endl;
 		cout << "2 - Remove Customer Info" 			<< endl;
-		cout << "3 - Rent Movie"					<< endl;
-		cout << "4 - Rent Game"						<< endl;
-		cout << "5 - Display Customer Info" 		<< endl;
-		cout << "6 - Display Movie Availability" 	<< endl;
+		cout << "3 - Rent Movie"				<< endl;
+		cout << "4 - Rent Game"					<< endl;
+		cout << "5 - Display Customer Info" 			<< endl;
+		cout << "6 - Display Movie Availability" 		<< endl;
 		cout << "7 - Display Loan Info"				<< endl;
-		cout << "8 - Quit" 							<< endl;
+		cout << "8 - Quit" 					<< endl;
 		
 		cout << "Choose an option: "; cin >> choice;
 
