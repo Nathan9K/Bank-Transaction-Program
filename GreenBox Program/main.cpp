@@ -2,8 +2,6 @@
 main.cpp
 */
 
-// when running makefile, use command MinGW32-make 
-
 #include <iostream>
 #include <string>
 #include <vector>
