@@ -4,8 +4,8 @@ This repository will contain all of my projects as I progress through my CS Majo
 
 Only two projects currently posted
 
---Transaction Program (C++)
+Transaction Program (C++)
 
---GreenBox Program (C++)
+GreenBox Program (C++)
 
 
