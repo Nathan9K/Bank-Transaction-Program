@@ -1,6 +1,5 @@
 /*
 
-ntk0025 - Nathan Kevil
 rec01 - ASCII Bits and Bytes
 
 */
