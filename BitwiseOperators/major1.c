@@ -77,7 +77,7 @@ int main()
 			{
 				case 1:
 					operand = getOperand();
-					/*** call count leading zeroes function ***/
+					clz(operand);
 					break;
 					
 				case 2:
